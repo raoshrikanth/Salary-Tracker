@@ -1,5 +1,5 @@
 # Salary-Tracker
-This is my first git repository
+Code To Track The Salary Of Employees
 <br>
 Author-Shrikanth Rao
 <br>
